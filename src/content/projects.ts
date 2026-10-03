@@ -126,7 +126,7 @@ export const caseStudies: CaseStudy[] = [
     slug: "bodyfit-tengah-sawah",
     name: "Bodyfit Tengah Sawah",
     role: "Full Stack Developer",
-    period: "Aug 2025 — Nov 2025",
+    period: "2025",
     status: "live",
     summary:
       "A company profile site and gym management system for a Yogyakarta gym, with a custom authentication layer on Laravel Breeze and a multi-level RBAC admin panel.",
@@ -211,7 +211,7 @@ export const caseStudies: CaseStudy[] = [
     slug: "whatsapp-chatbot",
     name: "WhatsApp Chatbot",
     role: "Programmer",
-    period: "Apr 2025 — Jul 2025",
+    period: "2025",
     status: "archived",
     summary:
       "A WhatsApp chatbot built from scratch for Universitas Amikom Yogyakarta's Computer Engineering study program, serving program-specific information to students automatically.",
