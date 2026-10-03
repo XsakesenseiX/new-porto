@@ -9,7 +9,7 @@ export const caseStudies: CaseStudy[] = [
     status: "in-progress",
     url: "https://mazadeco.com",
     summary:
-      "A B2B furniture catalog platform for an Indonesian natural-decor manufacturer, built on Laravel 13 and Filament, with a CI/CD pipeline and a phased delivery roadmap enforced from day one.",
+      "A B2B furniture catalog platform for an Indonesian natural-decor manufacturer, built on Laravel 13 and Filament, with a CI pipeline with quality gates (Pint, PHPStan, tests, CVE audit).",
     technologies: [
       "Laravel 13",
       "PHP 8.3",
